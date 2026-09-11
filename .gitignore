@@ -26,4 +26,3 @@ __pycache__/
 
 # project artifacts
 *.so
-/meshsimp
